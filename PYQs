@@ -1,0 +1,752 @@
+[
+  {
+    "id": "pyq_polynomials_2021_1",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 4x + k is 2, find k.",
+    "mathExpression": "2\u00b2-4(2)+k=0",
+    "year": 2021,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "4",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 4."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_2",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 3 and -4.",
+    "mathExpression": "(x-3)(x+4)",
+    "year": 2022,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 + 1x - 12",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 + 1x - 12."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_3",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-4 is a factor of x\u00b2 + kx - 16.",
+    "mathExpression": "4\u00b2+k(4)-16=0",
+    "year": 2023,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_4",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 11 and product is 30.",
+    "mathExpression": "x\u00b2-11x+30",
+    "year": 2024,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 11x + 30",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 11x + 30."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_5",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 8x + 12 and verify the relationship.",
+    "mathExpression": "x\u00b2-8x+12=0",
+    "year": 2025,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "6, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-6)(x-2).",
+      "Step 3: Hence the zeros are 6 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_6",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 14x + k is 7, find k.",
+    "mathExpression": "7\u00b2-14(7)+k=0",
+    "year": 2026,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "49",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 49."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_7",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 1 and -4.",
+    "mathExpression": "(x-1)(x+4)",
+    "year": 2021,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 + 3x - 4",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 + 3x - 4."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_8",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-2 is a factor of x\u00b2 + kx - 4.",
+    "mathExpression": "2\u00b2+k(2)-4=0",
+    "year": 2022,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_9",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 9 and product is 18.",
+    "mathExpression": "x\u00b2-9x+18",
+    "year": 2023,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 9x + 18",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 9x + 18."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_10",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 6x + 8 and verify the relationship.",
+    "mathExpression": "x\u00b2-6x+8=0",
+    "year": 2024,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "4, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-4)(x-2).",
+      "Step 3: Hence the zeros are 4 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_11",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 10x + k is 5, find k.",
+    "mathExpression": "5\u00b2-10(5)+k=0",
+    "year": 2025,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "25",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 25."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_12",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 6 and -4.",
+    "mathExpression": "(x-6)(x+4)",
+    "year": 2026,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 - 2x - 24",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 - 2x - 24."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_13",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-7 is a factor of x\u00b2 + kx - 49.",
+    "mathExpression": "7\u00b2+k(7)-49=0",
+    "year": 2021,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_14",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 7 and product is 6.",
+    "mathExpression": "x\u00b2-7x+6",
+    "year": 2022,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 7x + 6",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 7x + 6."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_15",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 4x + 4 and verify the relationship.",
+    "mathExpression": "x\u00b2-4x+4=0",
+    "year": 2023,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "2, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-2)(x-2).",
+      "Step 3: Hence the zeros are 2 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_16",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 6x + k is 3, find k.",
+    "mathExpression": "3\u00b2-6(3)+k=0",
+    "year": 2024,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "9",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 9."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_17",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 4 and -4.",
+    "mathExpression": "(x-4)(x+4)",
+    "year": 2025,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 + 0x - 16",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 + 0x - 16."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_18",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-5 is a factor of x\u00b2 + kx - 25.",
+    "mathExpression": "5\u00b2+k(5)-25=0",
+    "year": 2026,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_19",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 12 and product is 36.",
+    "mathExpression": "x\u00b2-12x+36",
+    "year": 2021,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 12x + 36",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 12x + 36."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_20",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 9x + 14 and verify the relationship.",
+    "mathExpression": "x\u00b2-9x+14=0",
+    "year": 2022,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "7, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-7)(x-2).",
+      "Step 3: Hence the zeros are 7 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_21",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 2x + k is 1, find k.",
+    "mathExpression": "1\u00b2-2(1)+k=0",
+    "year": 2023,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "1",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 1."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_22",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 2 and -4.",
+    "mathExpression": "(x-2)(x+4)",
+    "year": 2024,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 + 2x - 8",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 + 2x - 8."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_23",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-3 is a factor of x\u00b2 + kx - 9.",
+    "mathExpression": "3\u00b2+k(3)-9=0",
+    "year": 2025,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_24",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 10 and product is 24.",
+    "mathExpression": "x\u00b2-10x+24",
+    "year": 2026,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 10x + 24",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 10x + 24."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_25",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 7x + 10 and verify the relationship.",
+    "mathExpression": "x\u00b2-7x+10=0",
+    "year": 2021,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "5, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-5)(x-2).",
+      "Step 3: Hence the zeros are 5 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_26",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 12x + k is 6, find k.",
+    "mathExpression": "6\u00b2-12(6)+k=0",
+    "year": 2022,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "36",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 36."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_27",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 7 and -4.",
+    "mathExpression": "(x-7)(x+4)",
+    "year": 2023,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 - 3x - 28",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 - 3x - 28."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_28",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-1 is a factor of x\u00b2 + kx - 1.",
+    "mathExpression": "1\u00b2+k(1)-1=0",
+    "year": 2024,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_29",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 8 and product is 12.",
+    "mathExpression": "x\u00b2-8x+12",
+    "year": 2025,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 8x + 12",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 8x + 12."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_30",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 5x + 6 and verify the relationship.",
+    "mathExpression": "x\u00b2-5x+6=0",
+    "year": 2026,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "3, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-3)(x-2).",
+      "Step 3: Hence the zeros are 3 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_31",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 8x + k is 4, find k.",
+    "mathExpression": "4\u00b2-8(4)+k=0",
+    "year": 2021,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "16",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 16."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_32",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 5 and -4.",
+    "mathExpression": "(x-5)(x+4)",
+    "year": 2022,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 - 1x - 20",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 - 1x - 20."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_33",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-6 is a factor of x\u00b2 + kx - 36.",
+    "mathExpression": "6\u00b2+k(6)-36=0",
+    "year": 2023,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_34",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 13 and product is 42.",
+    "mathExpression": "x\u00b2-13x+42",
+    "year": 2024,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 13x + 42",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 13x + 42."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_35",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 3x + 2 and verify the relationship.",
+    "mathExpression": "x\u00b2-3x+2=0",
+    "year": 2025,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "1, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-1)(x-2).",
+      "Step 3: Hence the zeros are 1 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_36",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 4x + k is 2, find k.",
+    "mathExpression": "2\u00b2-4(2)+k=0",
+    "year": 2026,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "4",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 4."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_37",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 3 and -4.",
+    "mathExpression": "(x-3)(x+4)",
+    "year": 2021,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 + 1x - 12",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 + 1x - 12."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_38",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-4 is a factor of x\u00b2 + kx - 16.",
+    "mathExpression": "4\u00b2+k(4)-16=0",
+    "year": 2022,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_39",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 11 and product is 30.",
+    "mathExpression": "x\u00b2-11x+30",
+    "year": 2023,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 11x + 30",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 11x + 30."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_40",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 8x + 12 and verify the relationship.",
+    "mathExpression": "x\u00b2-8x+12=0",
+    "year": 2024,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "6, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-6)(x-2).",
+      "Step 3: Hence the zeros are 6 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_41",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 14x + k is 7, find k.",
+    "mathExpression": "7\u00b2-14(7)+k=0",
+    "year": 2025,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "49",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 49."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_42",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 1 and -4.",
+    "mathExpression": "(x-1)(x+4)",
+    "year": 2026,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 + 3x - 4",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 + 3x - 4."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_43",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-2 is a factor of x\u00b2 + kx - 4.",
+    "mathExpression": "2\u00b2+k(2)-4=0",
+    "year": 2021,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_44",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 9 and product is 18.",
+    "mathExpression": "x\u00b2-9x+18",
+    "year": 2022,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 9x + 18",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 9x + 18."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2023_45",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 6x + 8 and verify the relationship.",
+    "mathExpression": "x\u00b2-6x+8=0",
+    "year": 2023,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "4, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-4)(x-2).",
+      "Step 3: Hence the zeros are 4 and 2 and they satisfy the sum and product relations."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2024_46",
+    "chapterName": "Polynomials",
+    "questionText": "If one zero of x\u00b2 - 10x + k is 5, find k.",
+    "mathExpression": "5\u00b2-10(5)+k=0",
+    "year": 2024,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "25",
+    "explanationSteps": [
+      "Step 1: Substitute the given zero into the polynomial.",
+      "Step 2: Simplify the equation.",
+      "Step 3: Obtain k = 25."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2025_47",
+    "chapterName": "Polynomials",
+    "questionText": "Find a quadratic polynomial whose zeros are 6 and -4.",
+    "mathExpression": "(x-6)(x+4)",
+    "year": 2025,
+    "marks": 2,
+    "difficulty": "Easy",
+    "exactAnswer": "x\u00b2 - 2x - 24",
+    "explanationSteps": [
+      "Step 1: Form factors using the given zeros.",
+      "Step 2: Expand the product.",
+      "Step 3: Required polynomial is x\u00b2 - 2x - 24."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2026_48",
+    "chapterName": "Polynomials",
+    "questionText": "Find the value of k if x-7 is a factor of x\u00b2 + kx - 49.",
+    "mathExpression": "7\u00b2+k(7)-49=0",
+    "year": 2026,
+    "marks": 3,
+    "difficulty": "Medium",
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: Apply the Factor Theorem.",
+      "Step 2: Substitute x equal to the given factor root.",
+      "Step 3: Solve to get k = 0."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2021_49",
+    "chapterName": "Polynomials",
+    "questionText": "Determine the quadratic polynomial whose sum of zeros is 7 and product is 6.",
+    "mathExpression": "x\u00b2-7x+6",
+    "year": 2021,
+    "marks": 4,
+    "difficulty": "Medium",
+    "exactAnswer": "x\u00b2 - 7x + 6",
+    "explanationSteps": [
+      "Step 1: Use x\u00b2-(sum)x+(product).",
+      "Step 2: Substitute the given values.",
+      "Step 3: Polynomial is x\u00b2 - 7x + 6."
+    ]
+  },
+  {
+    "id": "pyq_polynomials_2022_50",
+    "chapterName": "Polynomials",
+    "questionText": "Find the zeros of x\u00b2 - 4x + 4 and verify the relationship.",
+    "mathExpression": "x\u00b2-4x+4=0",
+    "year": 2022,
+    "marks": 3,
+    "difficulty": "Easy",
+    "exactAnswer": "2, 2",
+    "explanationSteps": [
+      "Step 1: Factorise the quadratic polynomial.",
+      "Step 2: Write it as (x-2)(x-2).",
+      "Step 3: Hence the zeros are 2 and 2 and they satisfy the sum and product relations."
+    ]
+  }
+]
