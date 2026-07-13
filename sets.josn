@@ -1,0 +1,40 @@
+[
+  {
+    "chapterId": "ch_01",
+    "chapterName": "Polynomials",
+    "sets": [
+      {
+        "setId": "set_poly_01",
+        "setTitle": "Set Alpha: Zeroes & Coeffs",
+        "questions": [
+          {
+            "difficulty": "Easy",
+            "marks": 2,
+            "questionText": "Find the zeroes of the quadratic polynomial.",
+            "mathExpression": "x² - 2x - 8 = 0",
+            "exactAnswer": "4, -2",
+            "steps": [
+              "Find two numbers that multiply to -8 and add to -2",
+              "x² - 4x + 2x - 8 = 0",
+              "x(x - 4) + 2(x - 4) = 0",
+              "(x - 4)(x + 2) = 0"
+            ]
+          },
+          {
+            "difficulty": "Medium",
+            "marks": 3,
+            "questionText": "Find a quadratic polynomial whose zeroes are -3 and 4.",
+            "mathExpression": "",
+            "exactAnswer": "x² - x - 12",
+            "steps": [
+              "Sum of zeroes (α + β) = -3 + 4 = 1",
+              "Product of zeroes (αβ) = (-3)(4) = -12",
+              "Equation: x² - (sum)x + (product)",
+              "x² - (1)x + (-12)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
