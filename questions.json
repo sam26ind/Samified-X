@@ -12262,7 +12262,227 @@
       "page": 23,
       "questionNumber": "38"
     }
-  }
+  },
+
+    {
+      "id": "pyq_areas_of_circle_2021_1",
+      "chapterName": "Areas Related to Circles",
+      "questionText": "If the circumference and the area of a circle are numerically equal, then find the radius of the circle.",
+      "mathExpression": "2πr = πr²",
+      "year": 2021,
+      "marks": 1,
+      "difficulty": "Easy",
+      "exactAnswer": "2 units",
+      "explanationSteps": [
+        "Step 1: Let the radius of the circle be r. The formula for the circumference is 2πr and the area is πr².",
+        "Step 2: According to the given condition, equate the two formulas: 2πr = πr².",
+        "Step 3: Divide both sides by πr (assuming r ≠ 0) to get 2 = r.",
+        "Step 4: The radius of the circle is 2 units."
+      ]
+    },
+    {
+      "id": "pyq_areas_of_circle_2022_1",
+      "chapterName": "Areas Related to Circles",
+      "questionText": "Find the area of a sector of a circle with radius 6 cm if the angle of the sector is 60°. (Use π = 22/7)",
+      "mathExpression": "(θ/360°) × πr²",
+      "year": 2022,
+      "marks": 2,
+      "difficulty": "Medium",
+      "exactAnswer": "132/7 cm²",
+      "explanationSteps": [
+        "Step 1: Identify the given values: radius r = 6 cm, sector angle θ = 60°.",
+        "Step 2: Use the formula for the area of a sector: Area = (θ/360°) × πr².",
+        "Step 3: Substitute the values into the formula: Area = (60°/360°) × (22/7) × (6)².",
+        "Step 4: Simplify the fraction: Area = (1/6) × (22/7) × 36.",
+        "Step 5: Calculate the final value: Area = 22/7 × 6 = 132/7 cm²."
+      ]
+    },
+    {
+      "id": "pyq_areas_of_circle_2023_1",
+      "chapterName": "Areas Related to Circles",
+      "questionText": "The length of a minute hand of a clock is 14 cm. Find the area swept by the minute hand in 5 minutes.",
+      "mathExpression": "(30°/360°) × πr²",
+      "year": 2023,
+      "marks": 2,
+      "difficulty": "Medium",
+      "exactAnswer": "154/3 cm²",
+      "explanationSteps": [
+        "Step 1: Understand that the minute hand completes 360° in 60 minutes.",
+        "Step 2: Calculate the angle swept in 5 minutes: θ = (360°/60) × 5 = 30°.",
+        "Step 3: Apply the area of a sector formula: Area = (θ/360°) × πr², where r = 14 cm.",
+        "Step 4: Substitute the values: Area = (30°/360°) × (22/7) × (14)².",
+        "Step 5: Simplify the expression: Area = (1/12) × (22/7) × 196.",
+        "Step 6: Multiply to find the final area: Area = 154/3 cm²."
+      ]
+    },
+    {
+      "id": "pyq_areas_of_circle_2024_1",
+      "chapterName": "Areas Related to Circles",
+      "questionText": "Find the area of a quadrant of a circle whose circumference is 22 cm. (Use π = 22/7)",
+      "mathExpression": "¼ × πr²",
+      "year": 2024,
+      "marks": 3,
+      "difficulty": "Medium",
+      "exactAnswer": "77/8 cm²",
+      "explanationSteps": [
+        "Step 1: Use the given circumference to find the radius. Circumference = 2πr = 22.",
+        "Step 2: Substitute π = 22/7 into the equation: 2 × (22/7) × r = 22.",
+        "Step 3: Solve for r: r = (22 × 7) / (2 × 22) = 7/2 cm.",
+        "Step 4: Identify that a quadrant is a sector with an angle of 90°, so its area is ¼ × πr².",
+        "Step 5: Substitute the radius into the area formula: Area = ¼ × (22/7) × (7/2)².",
+        "Step 6: Simplify the expression: Area = ¼ × (22/7) × (49/4) = 77/8 cm²."
+      ]
+    },
+    {
+      "id": "pyq_areas_of_circle_2025_1",
+      "chapterName": "Areas Related to Circles",
+      "questionText": "A square is inscribed in a circle of radius 8√2 cm. Find the area of the shaded region outside the square but inside the circle. (Use π = 3.14)",
+      "mathExpression": "πr² - s²",
+      "year": 2025,
+      "marks": 4,
+      "difficulty": "Hard",
+      "exactAnswer": "145.92 cm²",
+      "explanationSteps": [
+        "Step 1: Calculate the area of the circle using r = 8√2. Area = 3.14 × (8√2)² = 3.14 × 128 = 401.92 cm².",
+        "Step 2: Recognize that the diagonal of the inscribed square is equal to the diameter of the circle.",
+        "Step 3: Calculate the diagonal: 2 × 8√2 = 16√2 cm.",
+        "Step 4: Use the relation between side (s) and diagonal (d) of a square: d = s√2. Therefore, 16√2 = s√2, which means s = 16 cm.",
+        "Step 5: Calculate the area of the square: s² = 16² = 256 cm².",
+        "Step 6: Subtract the area of the square from the area of the circle to find the shaded region: 401.92 - 256 = 145.92 cm²."
+      ]
+    },
+    {
+      "id": "pyq_areas_of_circle_2026_1",
+      "chapterName": "Areas Related to Circles",
+      "questionText": "Find the perimeter of a sector of a circle of radius 10.5 cm and sector angle 60°. (Use π = 22/7)",
+      "mathExpression": "(θ/360°) × 2πr + 2r",
+      "year": 2026,
+      "marks": 3,
+      "difficulty": "Medium",
+      "exactAnswer": "32 cm",
+      "explanationSteps": [
+        "Step 1: Recall that the perimeter of a sector includes the arc length plus the two straight radii bordering the sector.",
+        "Step 2: Calculate the arc length using the formula: l = (θ/360°) × 2πr.",
+        "Step 3: Substitute the given values: l = (60°/360°) × 2 × (22/7) × 10.5.",
+        "Step 4: Simplify the arc length: l = (1/6) × 2 × 22 × 1.5 = 11 cm.",
+        "Step 5: Add the two radii to the arc length to find the total perimeter: Perimeter = 11 + 2(10.5).",
+        "Step 6: Calculate the final perimeter: 11 + 21 = 32 cm."
+      ]
+    },
+    {
+      "id": "pyq_trigonometry_2021_1",
+      "chapterName": "Introduction to Trigonometry",
+      "questionText": "If sin A = 3/4, calculate cos A.",
+      "mathExpression": "√(1 - sin² A)",
+      "year": 2021,
+      "marks": 1,
+      "difficulty": "Easy",
+      "exactAnswer": "√7/4",
+      "explanationSteps": [
+        "Step 1: Use the fundamental trigonometric identity: sin² A + cos² A = 1.",
+        "Step 2: Rearrange the identity to solve for cos A: cos A = √(1 - sin² A).",
+        "Step 3: Substitute the given value of sin A: cos A = √(1 - (3/4)²).",
+        "Step 4: Square the fraction: cos A = √(1 - 9/16).",
+        "Step 5: Find a common denominator and subtract: cos A = √((16 - 9)/16) = √(7/16).",
+        "Step 6: Take the square root of the numerator and denominator to get the final answer: √7/4."
+      ]
+    },
+    {
+      "id": "pyq_trigonometry_2022_1",
+      "chapterName": "Introduction to Trigonometry",
+      "questionText": "Evaluate the following expression: 2 tan² 45° + cos² 30° - sin² 60°.",
+      "mathExpression": "2(1)² + (√3/2)² - (√3/2)²",
+      "year": 2022,
+      "marks": 2,
+      "difficulty": "Medium",
+      "exactAnswer": "2",
+      "explanationSteps": [
+        "Step 1: Recall the standard trigonometric values: tan 45° = 1, cos 30° = √3/2, and sin 60° = √3/2.",
+        "Step 2: Substitute these values into the given expression: 2(1)² + (√3/2)² - (√3/2)².",
+        "Step 3: Notice that the terms (√3/2)² and -(√3/2)² cancel each other out.",
+        "Step 4: The expression simplifies to 2(1)².",
+        "Step 5: Calculate the final result: 2 × 1 = 2."
+      ]
+    },
+    {
+      "id": "pyq_trigonometry_2023_1",
+      "chapterName": "Introduction to Trigonometry",
+      "questionText": "Prove that (sec A + tan A)(1 - sin A) = cos A.",
+      "mathExpression": "(1/cos A + sin A/cos A)(1 - sin A)",
+      "year": 2023,
+      "marks": 3,
+      "difficulty": "Medium",
+      "exactAnswer": "cos A",
+      "explanationSteps": [
+        "Step 1: Start with the Left Hand Side (LHS) of the equation: (sec A + tan A)(1 - sin A).",
+        "Step 2: Convert sec A and tan A in terms of sine and cosine: sec A = 1/cos A and tan A = sin A/cos A.",
+        "Step 3: Substitute these into the LHS: (1/cos A + sin A/cos A)(1 - sin A).",
+        "Step 4: Combine the terms in the first bracket over a common denominator: ((1 + sin A) / cos A) × (1 - sin A).",
+        "Step 5: Multiply the numerators using the identity (a + b)(a - b) = a² - b² to get (1 - sin² A) / cos A.",
+        "Step 6: Apply the identity 1 - sin² A = cos² A to the numerator.",
+        "Step 7: Simplify the fraction: cos² A / cos A = cos A, which equals the Right Hand Side (RHS). Hence proved."
+      ]
+    },
+    {
+      "id": "pyq_trigonometry_2024_1",
+      "chapterName": "Introduction to Trigonometry",
+      "questionText": "If tan(A + B) = √3 and tan(A - B) = 1/√3, where 0° < A + B ≤ 90° and A > B, find the values of angles A and B.",
+      "mathExpression": "A + B = 60°, A - B = 30°",
+      "year": 2024,
+      "marks": 2,
+      "difficulty": "Medium",
+      "exactAnswer": "A = 45°, B = 15°",
+      "explanationSteps": [
+        "Step 1: Determine the angle for the first equation. Since tan 60° = √3, we can set A + B = 60° (Equation 1).",
+        "Step 2: Determine the angle for the second equation. Since tan 30° = 1/√3, we can set A - B = 30° (Equation 2).",
+        "Step 3: Add Equation 1 and Equation 2 to eliminate B: (A + B) + (A - B) = 60° + 30°.",
+        "Step 4: Solve for A: 2A = 90°, so A = 45°.",
+        "Step 5: Substitute the value of A back into Equation 1: 45° + B = 60°.",
+        "Step 6: Solve for B: B = 60° - 45° = 15°."
+      ]
+    },
+    {
+      "id": "pyq_trigonometry_2025_1",
+      "chapterName": "Introduction to Trigonometry",
+      "questionText": "Prove the following identity: (sin θ - 2sin³ θ) / (2cos³ θ - cos θ) = tan θ.",
+      "mathExpression": "[sin θ(1 - 2sin² θ)] / [cos θ(2cos² θ - 1)]",
+      "year": 2025,
+      "marks": 4,
+      "difficulty": "Hard",
+      "exactAnswer": "tan θ",
+      "explanationSteps": [
+        "Step 1: Start with the Left Hand Side (LHS) expression: (sin θ - 2sin³ θ) / (2cos³ θ - cos θ).",
+        "Step 2: Factor out sin θ from the numerator: sin θ(1 - 2sin² θ).",
+        "Step 3: Factor out cos θ from the denominator: cos θ(2cos² θ - 1).",
+        "Step 4: Use the identity sin² θ = 1 - cos² θ to rewrite the term in the numerator bracket: 1 - 2(1 - cos² θ).",
+        "Step 5: Simplify the numerator bracket: 1 - 2 + 2cos² θ = 2cos² θ - 1.",
+        "Step 6: The LHS is now [sin θ(2cos² θ - 1)] / [cos θ(2cos² θ - 1)].",
+        "Step 7: Cancel the common factor (2cos² θ - 1) from both numerator and denominator.",
+        "Step 8: The expression simplifies to sin θ / cos θ, which equals tan θ. Hence proved."
+      ]
+    },
+    {
+      "id": "pyq_trigonometry_2026_1",
+      "chapterName": "Introduction to Trigonometry",
+      "questionText": "Simplify the expression: √( (1 + sin A) / (1 - sin A) ).",
+      "mathExpression": "√( (1 + sin A)² / cos² A )",
+      "year": 2026,
+      "marks": 3,
+      "difficulty": "Hard",
+      "exactAnswer": "sec A + tan A",
+      "explanationSteps": [
+        "Step 1: Multiply the numerator and denominator inside the square root by the conjugate of the denominator, (1 + sin A).",
+        "Step 2: The expression becomes √( [ (1 + sin A)(1 + sin A) ] / [ (1 - sin A)(1 + sin A) ] ).",
+        "Step 3: Simplify the numerator to (1 + sin A)² and the denominator using a² - b² to (1 - sin² A).",
+        "Step 4: Substitute cos² A for (1 - sin² A) in the denominator.",
+        "Step 5: The expression is now √( (1 + sin A)² / cos² A ).",
+        "Step 6: Taking the square root gives (1 + sin A) / cos A.",
+        "Step 7: Split the fraction: 1/cos A + sin A/cos A.",
+        "Step 8: Convert to standard trigonometric ratios to get the final answer: sec A + tan A."
+      ]
+    }
+
+
 
 
 ]
